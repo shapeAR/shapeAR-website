@@ -150,5 +150,16 @@ button.big-button {
 button.big-button:hover {
     transform: scale(0.95);
     background-color: #ebf7ff;
-    cursor:pointer;
+    cursor:pointer; 
+}
+
+@media (max-width: 860px) {
+    .section.columns .inner {
+        display:inline-block;
+    }
+
+    .column {
+        padding:0 !important;
+        margin-bottom:5rem;
+    }
 }
