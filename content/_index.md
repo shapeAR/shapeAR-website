@@ -8,8 +8,7 @@ draft: false
 {{< whitespace >}}
 {{< figure src="/media/logo.png" class="app-icon" >}}
 {{< title >}}shapeAR{{< /title >}}
-{{< subtitle >}}is building a novel way to design\
-in Augmented Reality{{< /subtitle >}}
+{{< subtitle >}}is building a novel way to design in Augmented Reality{{< /subtitle >}}
 {{< whitespace >}}
 {{< youtubevideo GlIG_ubCHDE >}}
 {{< whitespace >}}

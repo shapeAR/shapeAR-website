@@ -77,6 +77,8 @@ h1 {
     line-height: 130%;
     font-weight: normal;
     margin-top: 0;
+    max-width:45rem;
+    margin:auto;
     margin-bottom: 5rem;
 }
 
@@ -154,6 +156,11 @@ button.big-button:hover {
 }
 
 @media (max-width: 860px) {
+
+    .section .inner {
+        padding:3rem;
+    }
+
     .section.columns .inner {
         display:inline-block;
     }
@@ -161,5 +168,42 @@ button.big-button:hover {
     .column {
         padding:0 !important;
         margin-bottom:5rem;
+    }
+
+    figure.app-icon {
+        max-width:20rem;
+        border-radius:4rem;
+    }
+
+    .youtubevideo {
+        border-radius:1.5rem;
+    }
+
+    .subtitle {
+        margin-bottom:0rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .subtitle {
+        font-size:2rem;
+    }
+
+    .whitespace {
+        height: 2rem;
+    }
+
+    h1 {
+        font-size:3rem;
+        margin-bottom:0rem;
+    }
+
+    .column {
+        margin-bottom:2rem;
+    }
+
+    figure {
+        margin-left:0;
+        margin-right:0;
     }
 }
