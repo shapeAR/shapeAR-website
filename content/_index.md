@@ -43,9 +43,12 @@ Take a look at the video above to see the prototype in action.
 {{< /section >}}
 
 {{< section colored-background centered small-width >}}
+{{< arobject class="right" src="/media/transparent_tree.png" >}}
+{{< arobject class="left" src="/media/transparent_tree.png" >}}
+ 
 # Join the team
 We’re looking for enthusiastic people that want to help bring shapeAR to life. Have we piqued your interest? Send us an email:
-
+ 
 {{< button class="big-button" title="join@shapear.io" href="mailto:join@shapear.io?subject=Hey!%20I%20am%20interested%20in%20joining%20shapeAR&body=Hey%20people%20from%20shapeAR!%0D%0A%0D%0AI%20am%20interested%20in%20joining%20the%20team!%0D%0A%0D%0AI%20would%20be%20able%20to%20bring%20these%20strengths%3A%0D%0A%0D%0A-%20humour%0D%0A-%20a%20company%20pet%0D%0A%0D%0AYou%20can%20contact%20me%20at%3A%0D%0AMy%20mobile%20phone%20number%3A%20%2B31612345678%0D%0A%0D%0AKind%20regards%2C%0D%0A%0D%0AA%20mystery%20guest%0D%0A%0D%0A(change%20the%20mail%20to%20your%20liking%20%3A))" >}}
 {{< whitespace >}}
 {{< whitespace >}}

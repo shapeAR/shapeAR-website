@@ -15,10 +15,16 @@ body {
 
 /* Section classes */
 
+.section {
+    overflow:hidden;
+}
+
 .section .inner {
     max-width: 120rem;
     margin: auto;
     padding: 5rem;
+    position:relative;
+
 }
 
 .section.centered {
@@ -129,6 +135,20 @@ figure img {
 .youtubevideo {
     border-radius:3rem;
     overflow:hidden;
+}
+
+.arobject {
+    position: absolute;
+    top:-40rem;
+}
+
+.arobject.left {
+    left:-75rem;
+    top:-20rem;
+}
+
+.arobject.right {
+    right:-68rem;
 }
 
 /* Button classes */
