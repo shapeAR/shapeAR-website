@@ -1,12 +1,12 @@
 ---
-title: "shapeAR: 3D design in Augmented Reality"
+title: "shapeAR - 3D Design in Augmented Reality"
 date: 2021-02-02T13:55:35+01:00
 draft: false
 ---
 
 {{< section centered >}}
 {{< whitespace >}}
-{{< figure src="/media/logo.png" class="app-icon" >}}
+{{< figure src="/media/logo.png" class="app-icon" alt="shapeAR App Icon" >}}
 {{< title >}}shapeAR{{< /title >}}
 {{< subtitle >}}is building a novel way to design in Augmented Reality{{< /subtitle >}}
 {{< whitespace >}}
@@ -23,13 +23,13 @@ With more artists and designers using iPads and Apple heavily investing in ARKit
 {{< /column >}}
 
 {{< column vertically-centered-content >}}
-{{< figure src="/media/screenshot_1.jpg" class="tilt-right" >}}
+{{< figure src="/media/screenshot_1.jpg" class="tilt-right" alt="Screenshot of an early prototype of shapeAR in action." >}}
 {{< /column >}}
 {{< /section >}}
 
 {{< section columns >}}
 {{< column vertically-centered-content >}}
-{{< figure src="/media/photo_2.jpg" >}}
+{{< figure src="/media/photo_2.jpg" alt="Someone using an early prototype of shapeAR on an iPad Pro to create a 3d model. ">}}
 {{< /column >}}
 
 {{< column vertically-centered-content narrow-right >}}
