@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "shapeAR"
 theme = "shapeAR-theme"
+
+[markup.goldmark.renderer]
+unsafe= true

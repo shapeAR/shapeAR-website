@@ -1,0 +1,5 @@
+<div class="section {{ range .Params }}{{ . }} {{ end }}">
+    <div class="inner">
+        {{ .Inner | markdownify }}
+    </div>
+</div>
