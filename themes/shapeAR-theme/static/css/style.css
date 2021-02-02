@@ -15,8 +15,12 @@ body {
 
 /* Section classes */
 
-.section {
+#content {
     overflow:hidden;
+}
+
+.section {
+    overflow-y:visible;
 }
 
 .section .inner {
@@ -139,12 +143,13 @@ figure img {
 
 .arobject {
     position: absolute;
-    top:-40rem;
+    top:-20rem;
+    width:60rem;
 }
 
 .arobject.left {
-    left:-75rem;
-    top:-20rem;
+    left:-50rem;
+    top:0rem;
 }
 
 .arobject.right {
